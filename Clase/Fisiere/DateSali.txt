@@ -1,0 +1,5 @@
+Sala0 5 5
+Sala1 5 5
+Sala2 5 5
+Sala3 5 5
+Sala4 5 5
